@@ -32,7 +32,7 @@ const Business = () =>  (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Live, Thrilling, Unstoppable!
       </p>
-      <iframe src="https://player.twitch.tv/?channel=marblesracebet&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+      <iframe src="https://player.twitch.tv/?channel=marblesracebet&parent=https://poetic-khapse-f9796f.netlify.app" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
       <Button styles={`mt-10`} />
     </div>
